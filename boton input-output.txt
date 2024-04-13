@@ -1,7 +1,7 @@
 ########### FUNCION INPUT ###########
 -------------------------------------
 
-funcionalidad los botones (depende
+Funcionalidad los botones (depende
 de que haya hecho el diseño visual).
 
 -------------------------------------
