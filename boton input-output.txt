@@ -10,7 +10,7 @@ de que haya hecho el diseño visual).
 ########### FUNCION OUTPUT ###########
 -------------------------------------
 
-funcionalidad a la pantalla de 
+Funcionalidad de la pantalla de 
 resultado (esto tambien depende de las
 operaciones.)
 
