@@ -1,3 +1,5 @@
 ####################
 Funcion Wifi para la caluladora
 ####################
+Funcion (Ya terminado) de multijugador de 2 usuarios
+####################
